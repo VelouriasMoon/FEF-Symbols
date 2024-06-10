@@ -1,0 +1,5 @@
+map__SequenceHuman__anonymous_namespace__ProcSequence__FreeCursorTick equ 0x00354150
+debug__ProcMenu__Create equ 0x00424488
+sut__snprintf equ 0x0010FBFC
+map__sound__Se__UnitSelect equ 0x0039A964
+Sound__SEPlay equ 0x00422AEC
